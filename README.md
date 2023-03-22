@@ -6,7 +6,7 @@
 <p>
 <h2 align="center"> ¡Bienvenido al proyecto Conversor de Moneda con Java creado por Juan Arce de Rich Coast! </h2>
 
-Pasos principales:
+#### Pasos principales:
 
 #### Marca este proyecto con una estrella ⭐
 #### Sigue las lecciones y las instrucciones de contenido 📚
