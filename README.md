@@ -35,27 +35,21 @@ Insignia Exclusiva para este desafío 🏆
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon">
 </a>
 
-
-
-
-
-
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20by-Rich--Coast-blue.svg" alt="Made by Rich-Coast">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
+  <a href="https://rich-coast.com"><img src="https://img.shields.io/badge/Rich--Coast-Labs-blue"></a>
+  <a href="https://microsoft.com"><img src="https://img.shields.io/badge/Sponsor-Microsoft-blueviolet"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.rich-coast.com"><img src="https://img.shields.io/badge/-rich-coast.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Website"></a>
-  <a href="https://github.com/RichCoastLabs"><img src="https://img.shields.io/badge/-@RichCoastLabs-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/company/richcoastlabs"><img src="https://img.shields.io/badge/-Rich%20Coast%20Labs-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4/blob/master/LICENSE"><img src="https://img.shields.io/github/license/RichCoastLabs/Challenge-One-Conversor-Latam4"></a>
+  <a href="https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4"><img src="https://img.shields.io/badge/Java-1.8-orange"></a>
+  <a href="https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4"><img src="https://img.shields.io/badge/SpringBoot-2.5.2-brightgreen"></a>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <a href="https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4"><img src="https://img.shields.io/badge/-JavaFX-blue"></a>
+  <a href="https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4"><img src="https://img.shields.io/badge/-Artificial Intelligence-ff69b4"></a>
 </p>
 
 <p align="center">
