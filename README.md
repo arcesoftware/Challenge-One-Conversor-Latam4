@@ -10,10 +10,10 @@
 #### Sigue las lecciones y las instrucciones de contenido 📚
 #### Visita la página de Rich Coast [¡Haciendo clic aquí!](https://rich-coast.com) 📃
 
-## ¿Cómo guardar este Challenge?
+## ¿Que le parece el repositorio? Dejeme su comentario.
 
-Publica el proyecto en GitHub
-Utiliza el tema/topic:
+Clona el repositoriop de GitHub
+Utiliza: git clone https://github.com/arcesoftware/Challenge-One-Conversor-Latam4.git
 
  - Grupo 4: **challengeoneconversorlatam4**
 
@@ -23,13 +23,14 @@ Agregue mi respositorio a sus favoritos en la seccion "**challengeoneconversorla
 </p>
 ---
 
-## Descarga el repositorio o clonalo y usa el conversor 
+## Descarga el repositorio 
 ---
 
  Preuba el Conversor**link del proyecto publicado con GitHub Repositories**
-🔹 [link del formulario](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4)
+🔹 [Rich-Coast](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4)
 
-![formulario-esp](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png)
+[![Rich-Coast](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png)](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4)
+
 
 Insignia Exclusiva para este desafío 🏆
 ¡No olvide visitar mis redes sociales y Linkedin! 🏁
