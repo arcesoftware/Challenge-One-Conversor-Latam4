@@ -21,14 +21,10 @@ Agregue mi respositorio a sus favoritos en la seccion "**challengeoneconversorla
   <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" alt="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" />
 </p>
 ## Descarga el repositorio 
- Prueba el Conversor **link del proyecto publicado con GitHub Repositories**
-🔹 (https://github.com/arcesoftware/Challenge-One-Conversor-Latam4)
+ Prueba el Conversor con el link del proyecto publicado en el GitHub Repositories🔹 
 <p align="center">
   <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png" alt="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png" />
 </p>
-
-
-
 Insignia Exclusiva para este desafío 🏆
 ¡No olvide visitar mis redes sociales y Linkedin! 🏁
 <a href="https://www.linkedin.com/in/juan-carlos-arce/" target="_blank">
