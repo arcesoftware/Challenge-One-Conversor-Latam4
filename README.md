@@ -47,7 +47,7 @@ Insignia Exclusiva para este desafío 🏆
 </p>
 
 <p align="center">
-  <a href="https://www.richcoastlabs.com"><img src="https://img.shields.io/badge/-richcoastlabs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Website"></a>
+  <a href="https://rich-coast.com"><img src="https://img.shields.io/badge/-rich-coast.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Website"></a>
   <a href="https://github.com/RichCoastLabs"><img src="https://img.shields.io/badge/-@RichCoastLabs-181717?style=flat&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/company/richcoastlabs"><img src="https://img.shields.io/badge/-Rich%20Coast%20Labs-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
