@@ -1,8 +1,8 @@
-# Challenge ONE | Java | Back End | Conversor de Moneda | Rich Coast Arco Labs
-
-<p align="center" >
-     <img width="980" heigth="589" src="https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG">
+<h1 align="center">♨️ Conversor de Moneda | Rich Coast Arco Labs ♨️</h1>
+<p align="center">
+  <img width="100%" height="auto" src="https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" alt="conversor" />
 </p>
+
 
 ### ¡Bienvenido al proyecto Conversor de Moneda con Java creado por Juan Arce de Rich Coast! Pasos principales:
 
