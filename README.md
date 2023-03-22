@@ -19,17 +19,17 @@ Utiliza: git clone https://github.com/arcesoftware/Challenge-One-Conversor-Latam
 
 Agregue mi respositorio a sus favoritos en la seccion "**challengeoneconversorlatam4**"
 <p align="center">
-  <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" alt="richcoast" />
+  <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" alt="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" />
 </p>
 ---
 
 ## Descarga el repositorio 
 ---
 
- Preuba el Conversor**link del proyecto publicado con GitHub Repositories**
+ Preuba el Conversor **link del proyecto publicado con GitHub Repositories**
 🔹 [Rich-Coast](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4)
 <p align="center">
-  <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png" alt="richcoast" />
+  <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png" alt="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png" />
 </p>
 
 
