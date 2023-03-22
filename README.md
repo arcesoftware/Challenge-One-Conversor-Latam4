@@ -12,8 +12,7 @@
 
 ## ¿Que le parece el repositorio? Dejeme su comentario.
 
-Clona el repositorio de GitHub
-Utiliza en Git Bash: git clone https://github.com/arcesoftware/Challenge-One-Conversor-Latam4
+Clone el repositorio con Git Bash: git clone https://github.com/arcesoftware/Challenge-One-Conversor-Latam4
 
  - Grupo 4: **challengeoneconversorlatam4**
 
@@ -21,11 +20,8 @@ Agregue mi respositorio a sus favoritos en la seccion "**challengeoneconversorla
 <p align="center">
   <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" alt="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" />
 </p>
----
 ## Descarga el repositorio 
----
-
- Preuba el Conversor **link del proyecto publicado con GitHub Repositories**
+ Prueba el Conversor **link del proyecto publicado con GitHub Repositories**
 🔹 [Rich-Coast](https://github.com/arcesoftware/Challenge-One-Conversor-Latam4)
 <p align="center">
   <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png" alt="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png" />
