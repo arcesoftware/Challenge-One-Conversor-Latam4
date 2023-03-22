@@ -18,8 +18,9 @@ Utiliza el tema/topic:
  - Grupo 4: **challengeoneconversorlatam4**
 
 Agregue mi respositorio a sus favoritos en la seccion "**challengeoneconversorlatam4**"
-
-![gif-vitrine](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/RichCoast_ChallengeOneConversorLatam4.gif)
+<p align="center">
+  <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" alt="richcoast" />
+</p>
 ---
 
 ## Descarga el repositorio o clonalo y usa el conversor 
