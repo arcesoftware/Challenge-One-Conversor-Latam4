@@ -24,7 +24,7 @@ Agregue mi respositorio a sus favoritos en la seccion "**challengeoneconversorla
 ### Descarga el repositorio ♨️
 <p 
  Prueba el Conversor con el link del proyecto publicado en el GitHub Repositories🔹 
- </p>
+ /p>
 
 <p align="center">
   <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png" alt="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png" />
