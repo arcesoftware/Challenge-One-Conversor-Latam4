@@ -3,7 +3,7 @@
   <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/richcoast.gif" alt="richcoast" />
 </p>
 
-<p
+<p>
 ### ¡Bienvenido al proyecto Conversor de Moneda con Java creado por Juan Arce de Rich Coast! Pasos principales:
 
 #### Marca este proyecto con una estrella ⭐
@@ -17,7 +17,7 @@ Clone el repositorio con Git Bash: git clone https://github.com/arcesoftware/Cha
  - Grupo 4: **challengeoneconversorlatam4**
 
 Agregue mi respositorio a sus favoritos en la seccion "**challengeoneconversorlatam4**"
-/p>
+</p>
 <p align="center">
   <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" alt="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" />
 </p>
