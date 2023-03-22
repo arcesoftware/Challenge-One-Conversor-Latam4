@@ -47,11 +47,10 @@ Insignia Exclusiva para este desafío 🏆
 </p>
 
 <p align="center">
-  <a href="https://rich-coast.com"><img src="https://img.shields.io/badge/-rich-coast.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Website"></a>
-  <a href="https://github.com/RichCoastLabs"><img src="https://img.shields.io/badge/-@Rich-Coast-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/company/82070397/admin/"><img src="https://img.shields.io/badge/-Rich%20Coast%20-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.richcoastlabs.com"><img src="https://img.shields.io/badge/-richcoastlabs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/RichCoastLabs"><img src="https://img.shields.io/badge/-@RichCoastLabs-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/company/richcoastlabs"><img src="https://img.shields.io/badge/-Rich%20Coast%20Labs-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
