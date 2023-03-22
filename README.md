@@ -1,6 +1,6 @@
 <h1 align="center">♨️ Conversor de Moneda | Rich Coast Arco Labs ♨️</h1>
 <p align="center">
-  <img width="100%" height="auto" src="https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/conversor.PNG" alt="conversor" />
+  <img width="100%" height="auto" src="https://github.com/arcesoftware/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/richcoast.gif" alt="richcoast" />
 </p>
 
 
