@@ -29,7 +29,7 @@ Agregue mi respositorio a sus favoritos en la seccion "**challengeoneconversorla
  Preuba el Conversor**link del proyecto publicado con GitHub Repositories**
 🔹 [Rich-Coast](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4)
 
-[![Rich-Coast](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4/blob/master/src/main/resources/com/example/aluracurrencyconverter/alura.png)](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4)
+[![Rich-Coast](https://github.com/RichCoastLabs/Challenge-One-Conversor-Latam4)
 
 
 Insignia Exclusiva para este desafío 🏆
