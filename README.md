@@ -13,7 +13,7 @@
 ## ¿Que le parece el repositorio? Dejeme su comentario.
 
 Clona el repositorio de GitHub
-Utiliza en Git Bash: <git clone https://github.com/arcesoftware/Challenge-One-Conversor-Latam4.git>
+Utiliza en Git Bash: git clone https://github.com/arcesoftware/Challenge-One-Conversor-Latam4
 
  - Grupo 4: **challengeoneconversorlatam4**
 
